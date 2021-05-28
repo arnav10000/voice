@@ -1,0 +1,15 @@
+body{
+        background-image: linear-gradient(to left top, #66ff00, #00ff40, #00a2ff, #0059ff, #003cff);
+        color: rgb(255, 0, 0);
+        margin-top: 10px;
+        font-family: monospace;
+}
+
+.start{
+    width: auto;
+    height: auto;
+    margin: auto;
+    border: #00ff2a;
+    border-width: 3px;
+    border-style: dashed;
+}
